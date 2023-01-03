@@ -1,2 +1,7 @@
 # DIO-GFT-QA-TESTES
-Códigos e exercícios das aulas de testes unitários com maven, gradle e junit
+
+### Neste diretório foi praticado:
+
+* ### Gerenciamento de dependências e build em Java com Maven;
+* ### Testes unitários com JUnit;
+* ### Desenvolvendo testes utilizando Mockito.
